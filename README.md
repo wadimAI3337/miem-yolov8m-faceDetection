@@ -31,3 +31,11 @@ The following steps were undertaken to prepare the dataset for training the YOLO
         %cd ultralytics
         pip install -e ultralytics
         yolo task=detect mode=predict model='Yolo8m_best.pt' conf=0.25 source="1.jpg"
+
+# Contacts
+
+[a.romanov@hse.ru](https://www.hse.ru/staff/a.romanov) - project manager
+
+[dicd@miee.ru](https://miet.ru/person/122101) - project manager
+
+vvshamalo@edu.hse.ru - researcher
