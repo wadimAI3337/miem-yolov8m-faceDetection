@@ -23,3 +23,5 @@ The following steps were undertaken to prepare the dataset for training the YOLO
 * Enhancement of image quality using a generative adversarial network (Real-ESRGAN).
 
 # Model usage
+
+Open [notebook](https://colab.research.google.com/drive/1LcrJfTsC_CDC2DUgko5_to1ufcNJ3T18#scrollTo=79XnCgP3GnPv) with model usage example at Google Colab
