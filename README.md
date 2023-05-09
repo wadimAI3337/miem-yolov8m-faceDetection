@@ -30,4 +30,4 @@ The following steps were undertaken to prepare the dataset for training the YOLO
         git clone https://github.com/ultralytics/ultralytics
         %cd ultralytics
         pip install -e ultralytics
-        yolo task=detect mode=predict model='/content/Yolo8m_best.pt' conf=0.25 source="/content/1.jpg"
+        yolo task=detect mode=predict model='Yolo8m_best.pt' conf=0.25 source="1.jpg"
