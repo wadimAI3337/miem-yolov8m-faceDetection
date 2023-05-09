@@ -27,7 +27,7 @@ The following steps were undertaken to prepare the dataset for training the YOLO
 * Google Colab: Open [notebook](https://colab.research.google.com/drive/1LcrJfTsC_CDC2DUgko5_to1ufcNJ3T18#scrollTo=79XnCgP3GnPv) with model usage example at Google Colab
 * Command line: Open cmd on your device and follow next steps:
   1. ```pip install -r requirements.txt
-        !git clone https://github.com/ultralytics/ultralytics
+        git clone https://github.com/ultralytics/ultralytics
         %cd ultralytics
-        !pip install -e ultralytics
-        !yolo task=detect mode=predict model='/content/Yolo8m_best.pt' conf=0.25 source="/content/1.jpg"
+        pip install -e ultralytics
+        yolo task=detect mode=predict model='/content/Yolo8m_best.pt' conf=0.25 source="/content/1.jpg"
