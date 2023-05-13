@@ -24,7 +24,7 @@ The following steps were undertaken to prepare the dataset for training the YOLO
 
 # Model usage
 
-* Google Colab: Open [notebook](https://colab.research.google.com/drive/1LcrJfTsC_CDC2DUgko5_to1ufcNJ3T18#scrollTo=79XnCgP3GnPv) with model usage example at Google Colab
+* Google Colab: Open [notebook](https://colab.research.google.com/drive/1LcrJfTsC_CDC2DUgko5_to1ufcNJ3T18?usp=sharing) with model usage example at Google Colab
 * Command line: Open cmd on your device and follow next steps:
   1. ```pip install -r requirements.txt
         git clone https://github.com/ultralytics/ultralytics
